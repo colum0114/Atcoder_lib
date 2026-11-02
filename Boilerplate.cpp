@@ -1,4 +1,3 @@
-//https://github.com/colum0114/Atcoder_lib
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
